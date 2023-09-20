@@ -1,0 +1,17 @@
+{
+  "name": "user.workflow.a809d4ae-4bb1-466c-bd6b-a375a9d676bf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encode.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^1.1.0",
+    "dayjs": "^1.11.9"
+  }
+}
