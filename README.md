@@ -1,5 +1,5 @@
 # Toolbox
-A Discord bot that provides various tools
+An Alfred workflow that provides various tools
 
 ### Requirements
 - node 14
